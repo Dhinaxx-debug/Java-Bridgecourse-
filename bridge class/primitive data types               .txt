@@ -1,0 +1,9 @@
+primitive data types :                                                   non primitive 
+			
+			int       numbers                                          string  collection of words 
+			float     1.5 values                                       array collection similar data types
+			double   10.25 
+			char     single letter 
+			long    long values
+			short     
+			Boolean true or false
